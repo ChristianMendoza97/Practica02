@@ -9,7 +9,7 @@ import 'package:flutter_application_2/features/authentification/presentation/pag
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
-
+//Todo listo
 void main() async {
 
   WidgetsFlutterBinding.ensureInitialized();
